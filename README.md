@@ -23,7 +23,7 @@
 
 ---
 
-## Feel free to share `JavaScript` problems or projects!
+### Feel free to contact me on following email!
 
 ```javascript
 (function(ca){
