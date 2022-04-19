@@ -2,7 +2,7 @@
 
 
 - 🏠 I am currently living in Chandigarh City, India <img src='https://raw.githubusercontent.com/yammadev/flag-icons/master/png/IN%402x.png?raw=true' width='21' height='15'>
-- 🔭 I’m love to write code to solve some real life problems, currently working with JavaScript and Python
+- 🔭 I’m love to write code to solve real life problems, currently working with JavaScript and Python
 <!--
 - 🌱 I have
 - 👯 I’m looking to collaborate on ...
