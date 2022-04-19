@@ -16,11 +16,10 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,css&hide_border=true)
 
----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurinbox&show_icons=true&&count_private=true&hide=contributions)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurinbox&show_icons=true&&count_private=true&hide=contributions&hide_border=true)
 
 ---
 
