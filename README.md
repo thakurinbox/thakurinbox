@@ -1,15 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Naresh Thakur
 
 
-<!--
-**thakurinbox/thakurinbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
-- 💬 Ask me about ...
-- 🔭 I’m currently working with JavaScript and Python
+- 🏠 I am currently living in Chandigarh City, India <img src='https://raw.githubusercontent.com/yammadev/flag-icons/master/png/IN%402x.png?raw=true' width='21' height='15'> ...
+- 🔭 I’m love to write code to solve some real life problem, currently working with JavaScript and Python
 - 🌱 I have
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -20,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
 Feel free to share `JavaScript` problems or projects!
 
