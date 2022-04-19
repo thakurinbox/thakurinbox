@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Naresh Thakur
+# Naresh Thakur -- @thakurinbox
 
 
 - 🏠 I am currently living in Chandigarh City, India <img src='https://raw.githubusercontent.com/yammadev/flag-icons/master/png/IN%402x.png?raw=true' width='21' height='15'>
@@ -13,6 +13,7 @@
 - ⚡ Fun fact: ...
 
 -->
+<!--
 ## Skills
 
 <img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png">
@@ -35,7 +36,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurinbox&show_icons=true&&count_private=true&hide=contributions&hide_border=true)
 
 ---
-
+-->
 ### Feel free to contact me on following email!
 
 ```javascript
