@@ -23,7 +23,7 @@
 
 ---
 
-Feel free to share `JavaScript` problems or projects!
+## Feel free to share `JavaScript` problems or projects!
 
 ```javascript
 (function(ca){
@@ -32,3 +32,5 @@ Feel free to share `JavaScript` problems or projects!
                  98, 111, 120, 64, 103, 109, 97, 105, 108,
                  46, 99, 111, 109])).join('');
 ```
+
+![Visitor Count](https://profile-counter.glitch.me/thakurinbox/count.svg)
