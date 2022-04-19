@@ -15,10 +15,13 @@
 -->
 ---
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
 ---
 
+![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurinbox&show_icons=true)
+
+---
 
 Feel free to share `JavaScript` problems or projects!
 
