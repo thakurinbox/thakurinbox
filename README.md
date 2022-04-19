@@ -13,22 +13,10 @@
 - ⚡ Fun fact: ...
 
 -->
----
-<table>
-  <tr>
-    <td>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-    </td>
-  </tr>
-  <tr>
-    <td>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurinbox&show_icons=true)
-    </td>
-  </tr>
-</table>
+
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=html,css)
 
 ---
 
