@@ -37,7 +37,7 @@
 
 ---
 -->
-### Feel free to contact me on following email!
+### Feel free to nudge me on following email!
 
 ```javascript
 (function(ca){
