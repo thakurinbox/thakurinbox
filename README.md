@@ -1,8 +1,8 @@
 # Naresh Thakur -- @thakurinbox
 
 
-- :house: I am currently living in Chandigarh City, India :india:
-- :desktop_computer: I love to write code to solve real life problems, currently working with JavaScript and Python
+:house: I am currently living in Chandigarh City, India :india:<br />
+:desktop_computer: I love to write code to solve real life problems, currently working with JavaScript and Python
 <!--
 - 🌱 I have
 - 👯 I’m looking to collaborate on ...
@@ -39,9 +39,9 @@
 -->
 
 ### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2" alt="Recent Article 2"></a> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2" alt="Recent Article 2"></a> <br>
 
 
 ### Feel free to nudge me on following email!
