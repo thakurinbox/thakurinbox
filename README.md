@@ -37,6 +37,13 @@
 
 ---
 -->
+
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1" alt="Recent Article 1"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2" alt="Recent Article 2"></a> <br>
+
+
 ### Feel free to nudge me on following email!
 
 ```javascript
