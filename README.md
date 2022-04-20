@@ -1,8 +1,8 @@
 # Naresh Thakur -- @thakurinbox
 
 
-- 🏠 I am currently living in Chandigarh City, India <img src='https://raw.githubusercontent.com/yammadev/flag-icons/master/png/IN%402x.png?raw=true' width='21' height='15'>
-- 🔭 I’m love to write code to solve real life problems, currently working with JavaScript and Python
+- :house: I am currently living in Chandigarh City, India :india:
+- :desktop_computer: I’m love to write code to solve real life problems, currently working with JavaScript and Python
 <!--
 - 🌱 I have
 - 👯 I’m looking to collaborate on ...
