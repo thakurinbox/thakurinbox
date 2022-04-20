@@ -2,7 +2,7 @@
 
 
 - :house: I am currently living in Chandigarh City, India :india:
-- :desktop_computer: I’m love to write code to solve real life problems, currently working with JavaScript and Python
+- :desktop_computer: I love to write code to solve real life problems, currently working with JavaScript and Python
 <!--
 - 🌱 I have
 - 👯 I’m looking to collaborate on ...
