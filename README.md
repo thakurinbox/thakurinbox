@@ -1,4 +1,5 @@
-# Naresh Thakur -- @thakurinbox
+# Naresh Thakur -- @thakurinbox <a href=”https://www.linkedin.com/in/thakurinbox/"><img align=”left” src=”https://raw.githubusercontent.com/thakurinbox/thakurinbox/master/icons/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 
 
 :house: I am currently living in Chandigarh City, India :india:<br />
