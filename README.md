@@ -1,4 +1,4 @@
-# Naresh Thakur -- @thakurinbox <a href="https://www.linkedin.com/in/thakurinbox/" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/thakurinbox/thakurinbox/master/icons/linkedin.svg" alt="icon | LinkedIn" width="40px"/></a><a href="https://medium.com/@thakurinbox" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/thakurinbox/thakurinbox/master/icons/medium.svg" alt="icon | Medium" width="40px"/></a>
+# Naresh Thakur -- @thakurinbox <a href="https://www.linkedin.com/in/thinklikeacto/" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/thakurinbox/thakurinbox/master/icons/linkedin.svg" alt="icon | LinkedIn" width="40px"/></a><a href="https://medium.com/@thinklikeacto" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/thakurinbox/thakurinbox/master/icons/medium.svg" alt="icon | Medium" width="40px"/></a>
 
 
 
@@ -40,9 +40,9 @@
 -->
 
 ### 📝 My Latest Blog Post in Medium
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thakurinbox/2" alt="Recent Article 2"></a> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/2" alt="Recent Article 2"></a> <br>
 
 
 ### Feel free to nudge me on following email!
